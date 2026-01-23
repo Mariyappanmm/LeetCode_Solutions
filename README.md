@@ -21,6 +21,7 @@
 | [0183-customers-who-never-order](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0511-game-play-analysis-i) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
 | [1280-students-and-examinations](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/1280-students-and-examinations) |
