@@ -25,6 +25,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0595-big-countries) |
 | [1280-students-and-examinations](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
