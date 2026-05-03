@@ -32,4 +32,16 @@
 | [0610-triangle-judgement](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0610-triangle-judgement) |
 | [1280-students-and-examinations](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/1280-students-and-examinations) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
