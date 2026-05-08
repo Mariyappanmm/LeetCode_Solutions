@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0055-jump-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0043-multiply-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/Mariyappanmm/LeetCode_Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
